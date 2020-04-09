@@ -1,2 +1,2 @@
 # spotify-recommender
-Recommender systems on Spotify streaming sessions
+Recommender system to predict tracks for Spotify sessions
